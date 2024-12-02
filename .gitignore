@@ -1,9 +1,13 @@
 .env
-secrets.conf
+secrets.conf/printer_data/config/RatOS
 *.swp
+*.bak
 *.tmp
+*.bkp
 printer-[0-9]*_[0-9]*.cfg
+*.csv
 telegram.conf
+*.zip
 .theme
 /printer_data/config/RatOS
 *.bak
