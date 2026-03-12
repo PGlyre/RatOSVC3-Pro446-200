@@ -1,10 +1,4 @@
-.env
-secrets.conf
-(*.swp
+printer_data/logs/*
+printer_data/gcodes/*
+*.log
 *.tmp
-printer-[0-9]*_[0-9]*.cfg
-*.bak
-*.bkp
-*.csv
-*.zip
-ShakeTune_results)git_protocol=ssh
